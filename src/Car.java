@@ -25,7 +25,7 @@ public class Car {
 	
 	/**
 	 * Accelerates the car up to the maximum amount
-	 * set in the object constructor.
+	 * set in the object constructor. 
 	 * @param amount	The amount the car will accelerate
 	 */
 	public void accelerate(int amount){
@@ -42,8 +42,8 @@ public class Car {
 	 * "Color: red, Speed: 100"
 	 */
 	public String toString(){
-		// not implemented!
-		return("");
+	
+		return("Color: Red, Speed: 0");
 	}
 
 }
